@@ -1,4 +1,10 @@
 [
+  {
+    "channel_name" : "Join Telegram",
+    "channel_genre" : "Entertainment",
+    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png",
+    "target" : "https://t.me/allinonereborn"
+  },
     {
       "channel_id": "578",
       "channel_name": "&TV",
