@@ -3097,6 +3097,12 @@
       "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png"
     },
     {
+    "channel_name": "Star GOLD 2 HD",
+    "channel_genre": "Movies",
+    "logo": "https://i.ibb.co/qM2Tb9G/Vx9kgJX7.png",
+    "target" : "https://allinonereborn.tech/kids/star-gold2.html"
+    },
+    {
       "channel_id": "1769",
       "channel_name": "Star GOLD Romance",
       "channel_genre": "Movies",
