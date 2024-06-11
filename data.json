@@ -12,6 +12,12 @@
       "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png"
     },
     {
+      "channel_id": "1363",
+      "channel_name": "TP Anime Local",
+      "channel_genre": "Kids",
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png"
+    },
+    {
       "channel_id": "556",
       "channel_name": "SET",
       "channel_genre": "Entertainment",
