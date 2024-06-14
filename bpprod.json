@@ -22,6 +22,11 @@
                 "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd"
             },
             {
+                "id": "516",
+                "name": "STAR Maa HD",
+                "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd"
+            },
+            {
                 "id": "641",
                 "name": "Tata Play Cooking",
                 "manifest_url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd"
