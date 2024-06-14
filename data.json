@@ -18,6 +18,12 @@
     "target" : "https://allinonereborn.tech/kids/&-flix.html"
     },
     {
+    "channel_name": "Asianet Movies HD",
+    "channel_genre": "Malayalam",
+    "logo": "https://i.ibb.co/9Y4Nr66/Screenshot-2024-06-14-182532.png",
+    "target" : "https://allinonereborn.tech/kids/asianet-movies.html"
+    },
+    {
       "channel_id": "1363",
       "channel_name": "TP Anime Local",
       "channel_genre": "Kids",
