@@ -1817,11 +1817,6 @@
                 "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd"
             },
             {
-                "id": "956",
-                "name": "STAR Maa HD",
-                "manifest_url": "https://bpprod45catchup.akamaized.net/out/i/1375.mpd"
-            },
-            {
                 "id": "359",
                 "name": "ETV HD",
                 "manifest_url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd"
@@ -1865,16 +1860,6 @@
                 "id": "362",
                 "name": "Gemini Movies HD",
                 "manifest_url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_550/output/manifest.mpd"
-            },
-            {
-                "id": "957",
-                "name": "Star Maa Movies HD",
-                "manifest_url": "https://bpprod44catchup.akamaized.net/out/i/1568869.mpd"
-            },
-            {
-                "id": "954",
-                "name": "Star Maa Gold",
-                "manifest_url": "https://bpprod39catchup.akamaized.net/out/i/5223418.mpd"
             },
             {
                 "id": "1168",
