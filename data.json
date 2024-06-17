@@ -23,21 +23,21 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
     "target" : "https://allinonereborn.in/web/gmn-msc.html"
     },
-	  {
+    {
     "channel_name": "Star Maa Music",
     "channel_genre": "Telugu",
     "logo": "https://iili.io/Jc8WpHb.png",
     "target" : "https://allinonereborn.in/web/str-maa-msc.html"
     },
-	  {
+    {
     "channel_name": "Sun Music HD",
-    "channel_genre": "Telugu",
+    "channel_genre": "Tamil",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
     "target" : "https://allinonereborn.in/web/sun-msc.html"
     },
-	  {
+    {
     "channel_name": "Vijay Super HD",
-    "channel_genre": "Telugu",
+    "channel_genre": "Tamil",
     "logo": "https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png",
     "target" : "https://allinonereborn.in/web/vjy-spr-hd.html"
     },
