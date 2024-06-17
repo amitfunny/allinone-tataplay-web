@@ -14,14 +14,38 @@
     {
     "channel_name": "&Flix HD",
     "channel_genre": "Movies",
-    "logo": "https://i.ibb.co/gWkYs60/Screenshot-2024-06-14-175907.png",
-    "target" : "https://allinonereborn.tech/kids/&-flix.html"
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "target" : "https://allinonereborn.in/web/&flx.html"
+    },
+    {
+    "channel_name": "Gemini Music HD",
+    "channel_genre": "Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
+    "target" : "https://allinonereborn.in/web/gmn-msc.html"
+    },
+	  {
+    "channel_name": "Star Maa Music",
+    "channel_genre": "Telugu",
+    "logo": "https://iili.io/Jc8WpHb.png",
+    "target" : "https://allinonereborn.in/web/str-maa-msc.html"
+    },
+	  {
+    "channel_name": "Sun Music HD",
+    "channel_genre": "Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
+    "target" : "https://allinonereborn.in/web/sun-msc.html"
+    },
+	  {
+    "channel_name": "Vijay Super HD",
+    "channel_genre": "Telugu",
+    "logo": "https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png",
+    "target" : "https://allinonereborn.in/web/vjy-spr-hd.html"
     },
     {
     "channel_name": "Asianet Movies HD",
     "channel_genre": "Malayalam",
     "logo": "https://i.ibb.co/9Y4Nr66/Screenshot-2024-06-14-182532.png",
-    "target" : "https://allinonereborn.tech/kids/asianet-movies.html"
+    "target" : "https://allinonereborn.in/web/asiant-movie.html"
     },
     {
       "channel_id": "1363",
@@ -69,7 +93,7 @@
     "channel_name": "Disney India HD",
     "channel_genre": "Kids",
     "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
-    "target" : "https://allinonereborn.tech/kids/disney-hd.html"
+    "target" : "https://allinonereborn.in/web/disn-hd.html"
     },
     {
       "channel_id": "148",
@@ -3117,8 +3141,8 @@
     {
     "channel_name": "Star GOLD 2 HD",
     "channel_genre": "Movies",
-    "logo": "https://i.ibb.co/qM2Tb9G/Vx9kgJX7.png",
-    "target" : "https://allinonereborn.tech/kids/star-gold2.html"
+    "logo": "https://i.ibb.co/kJCTGhg/CC-20221111-203447.png",
+    "target" : "https://allinonereborn.in/web/str-gld2.html"
     },
     {
       "channel_id": "1769",
@@ -3148,7 +3172,7 @@
     "channel_name": "Star Movies HD",
     "channel_genre": "Movies",
     "logo": "https://i.ibb.co/QCtY1mm/Screenshot-2024-06-14-173632.png",
-    "target" : "https://allinonereborn.tech/kids/str-movie.html"
+    "target" : "https://allinonereborn.in/web/str-moves.html"
     },
     {
       "channel_id": "469",
